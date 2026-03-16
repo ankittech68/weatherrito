@@ -21,7 +21,7 @@ function Footer() {
       <p className={styles.info}>Designed and Coded by :</p>
       <p>
         <sup>&#169; </sup>
-        {currentYear} <span className={styles.myName}>Ankit kumar</span>
+        {currentYear} <span className={styles.myName}>Ankit</span>
       </p>
       <div className={styles.links}>
         <a
